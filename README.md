@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-# NAME: DHANUSH M D
-# REG.NO: 212224100011
+# NAME: KABILAN P
+# REG.NO: 212224040145
 
 # Aim : 
 
