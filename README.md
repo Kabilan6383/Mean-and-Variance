@@ -1,4 +1,3 @@
-# Date: 28/01/2026
 # EXP:1 Mean and variance of a discrete  distribution
 
 # Aim : 
